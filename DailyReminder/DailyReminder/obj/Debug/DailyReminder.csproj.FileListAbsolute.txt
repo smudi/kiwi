@@ -1,0 +1,1 @@
+c:\users\axel\documents\visual studio 2013\Projects\DailyReminder\DailyReminder\bin\Debug\DailyReminder.exe.config
